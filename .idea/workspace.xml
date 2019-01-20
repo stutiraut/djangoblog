@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef53af60-104f-4c7a-923a-43ca9f100327" name="Default Changelist" comment="Allowed host">
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post/detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_blog/settings.py" afterDir="false" />
+    <list default="true" id="ef53af60-104f-4c7a-923a-43ca9f100327" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,16 +40,16 @@
           <entry key="Procfile" value="4" />
           <entry key="css" value="25" />
           <entry key="html" value="22" />
-          <entry key="py" value="167" />
-          <entry key="txt" value="97" />
+          <entry key="py" value="169" />
+          <entry key="txt" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="25" />
           <entry key="HTML" value="22" />
-          <entry key="PLAIN_TEXT" value="101" />
-          <entry key="Python" value="167" />
+          <entry key="PLAIN_TEXT" value="128" />
+          <entry key="Python" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -117,11 +113,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+            <state relative-caret-position="879">
+              <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
               <folding>
                 <element signature="e#0#54#0" expanded="true" />
                 <marker date="1548007868428" expanded="true" signature="267:268" ph="..." />
@@ -172,11 +168,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_blog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+            <state relative-caret-position="174">
+              <caret line="155" column="29" lean-forward="true" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
               <folding>
                 <element signature="e#308#317#0" expanded="true" />
               </folding>
@@ -217,10 +213,10 @@
         <option value="$PROJECT_DIR$/blog/templates/blog/post/list.html" />
         <option value="$PROJECT_DIR$/blog/forms.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post/share.html" />
-        <option value="$PROJECT_DIR$/my_blog/settings.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
         <option value="$PROJECT_DIR$/blog/urls.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post/detail.html" />
+        <option value="$PROJECT_DIR$/my_blog/settings.py" />
       </list>
     </option>
   </component>
@@ -231,9 +227,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="487" />
-    <option name="y" value="93" />
-    <option name="width" value="1440" />
+    <option name="x" value="-11" />
+    <option name="y" value="52" />
+    <option name="width" value="1100" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -403,7 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547863812593</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added sharing post option">
+      <created>1548009296924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548009296924</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added sharing post option">
+      <created>1548011053131</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1548011053131</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -443,7 +453,8 @@
     <MESSAGE value="Allowed host" />
     <MESSAGE value="Added styling" />
     <MESSAGE value="Added pagination" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added pagination" />
+    <MESSAGE value="Added sharing post option" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added sharing post option" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -613,23 +624,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_blog/settings.py">
+    <entry file="file://$PROJECT_DIR$/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
+        <state relative-caret-position="879">
+          <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
           <folding>
-            <element signature="e#308#317#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1548007868428" expanded="true" signature="267:268" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/my_blog/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="59" column="19" lean-forward="true" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        <state relative-caret-position="174">
+          <caret line="155" column="29" lean-forward="true" selection-start-line="155" selection-start-column="29" selection-end-line="155" selection-end-column="29" />
           <folding>
-            <element signature="e#0#54#0" expanded="true" />
-            <marker date="1548007868428" expanded="true" signature="267:268" ph="..." />
+            <element signature="e#308#317#0" expanded="true" />
           </folding>
         </state>
       </provider>
