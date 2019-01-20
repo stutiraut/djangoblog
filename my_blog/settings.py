@@ -150,8 +150,8 @@ try:
     from .local_settings import *
 except ImportError:
     pass
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'stutsraut1@gmail.com'
+EMAIL_HOST = 'smtp.sendgrid.net'
+EMAIL_HOST_USER = 'stutiraut'
 EMAIL_HOST_PASSWORD = 'celebrity533801'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
