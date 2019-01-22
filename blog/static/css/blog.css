@@ -2,18 +2,21 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif;
-    background: mediumpurple;
+    background: chocolate;
 }
 
 a {
-    color:#00abff;
+    color:gainsboro;
     text-decoration:none;
+    font-family: 'Lobster', cursive;
+    font-size: 20px;
 }
 
 h1 {
     font-weight:normal;
     border-bottom:1px solid #bbb;
     padding:0 0 10px 0;
+    ;
 }
 
 h2 {
